@@ -6,7 +6,9 @@ First, follow Step 1 and 2 of "Authorizing requests with OAuth 2.0" in this page
 
 Next, create a file config.json which contains the client ID and client secret you got above, which looks like:
 
+```json
 {
   "client_id": "xxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
   "client_secret": "xxxxxxxxxxxxxxxxxxxxxxxx"
 }
+```
